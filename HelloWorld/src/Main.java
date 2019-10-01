@@ -15,7 +15,7 @@ public class Main{
 	   for(i=2;i<=m;i++)
 	   {      
 	    if(n%i==0){      
-	     System.out.println(n+" is not the prime number");      
+	     System.out.println(n+" is prime number");      
 	     flag=1;      
 	     break;      
 	    
